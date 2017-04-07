@@ -6,8 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/ClientPHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/ClientPHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/ClientPHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/ClientPHP)
 
-
-> CodeMommy ClientPHP is a client helper for web development.
+> Get all the information of client for web
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/ClientPHP) to get more information.
 

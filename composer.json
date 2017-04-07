@@ -1,7 +1,7 @@
 {
   "name": "codemommy/clientphp",
   "version": "0.0.1",
-  "description": "CodeMommy ClientPHP is a client helper for web development.",
+  "description": "Get all the information of client for web",
   "keywords": [
     "CodeMommy",
     "ClientPHP",
